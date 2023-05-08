@@ -1,0 +1,2 @@
+data=rand(62,1);
+topoplot(data,'SEED_GRAPH.loc');
